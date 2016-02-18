@@ -1,0 +1,3 @@
+[submodule "chaiparty"]
+	path = chaiparty
+	url = https://github.com/fanily/chaiparty.git
