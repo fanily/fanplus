@@ -1,3 +1,6 @@
 [submodule "chaiparty"]
 	path = chaiparty
 	url = https://github.com/fanily/chaiparty.git
+[submodule "yueyuebookstore"]
+	path = yueyuebookstore
+	url = git@github.com:fanily/yueyuebookstore.git
